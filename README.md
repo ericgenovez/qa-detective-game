@@ -1,4 +1,4 @@
-# 🕵️ QA Detective: The Training Game v2.0
+# 🕵️ QA Detective: The Training Game v1.0
 
 Jogo de treinamento gamificado para QAs. Encontre bugs escondidos e **documente-os corretamente** para ganhar pontos.
 
@@ -129,7 +129,3 @@ React 18 · Vite · Tailwind CSS · Framer Motion · Recharts · Lucide React
 **⚠️ NÃO OLHE O GABARITO ANTES DE JOGAR!**
 
 O aprendizado vem da descoberta. Gabarito é apenas para instrutores e conferência pós-jogo.
-
-## 📄 Licença
-
-MIT License - Livre para uso educacional
