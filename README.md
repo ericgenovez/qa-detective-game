@@ -93,26 +93,6 @@ login sem senha preenchida, violando regras de segurança.
 - ✅ Compare esperado vs obtido
 - ❌ Evite descrições genéricas tipo "não funciona"
 
-## 📁 Estrutura do Projeto
-```
-qa-detective-game/
-├── src/
-│   ├── App.jsx           # Código principal
-│   ├── index.css         # Estilos Tailwind
-│   └── main.jsx          # Entry point
-├── GABARITO/             # ⚠️ Apenas para instrutores
-│   └── README_GABARITO.md
-├── package.json
-└── README.md
-```
-
-## 🛠️ Comandos Úteis
-```bash
-npm run dev          # Iniciar (http://localhost:5173)
-npm run build        # Build produção
-Ctrl + C             # Parar servidor
-```
-
 ## 🎓 Para Instrutores
 
 - Gabarito completo em `gabarito/README_GABARITO.md`
